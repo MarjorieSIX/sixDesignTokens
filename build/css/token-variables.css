@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 17 Sep 2019 20:19:31 GMT
+ * Generated on Wed, 18 Sep 2019 13:32:47 GMT
  */
 
 :root {
@@ -33,6 +33,15 @@
  --color-graphite-dark: #383838;
  --color-advantage: #ffc90d;
  --color-accent: #652f9d;
+ --font-averta-name: Averta;
+ --font-averta-weight-light: 300;
+ --font-averta-weight-regular: 400;
+ --font-averta-weight-semi-bold: 500;
+ --font-averta-weight-bold: 700;
+ --font-averta-url-light: local('Averta'), local('Averta-Light'), url('assets/fonts/averta-light.woff2') format('woff2'), url('assets/fonts/averta-light.woff') format('woff');;
+ --font-averta-url-regular: local('Averta'), local('Averta-Regular'), url('assets/fonts/averta-regular.woff2') format('woff2'), url('assets/fonts/averta-regular.woff') format('woff');;
+ --font-averta-url-semibold: local('Averta'), local('Averta-Semibold'), url('assets/fonts/averta-semibold.woff2') format('woff2'), url('assets/fonts/averta-semibold.woff') format('woff');;
+ --font-averta-url-bold: local('Averta'), local('Averta-Bold'), url('assets/fonts/averta-bold.woff2') format('woff2'), url('assets/fonts/averta-bold.woff') format('woff');;
  --ds-font-weight-light: 300;
  --ds-font-weight-regular: 400;
  --ds-font-weight-semibold: 500;
