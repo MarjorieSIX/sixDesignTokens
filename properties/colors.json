@@ -1,43 +1,192 @@
 {
   "color": {
-    "black"   : { "value": "#000000" },
+    "white" : { 
+      "value": "#ffffff",
+      "category": "Basic colors",
+      "meta": {
+        "accessibility": "00-10-20"
+      }
+    },
+    "grey" : { 
+      "value": "#aaaaaa",
+      "category": "Basic colors",
+      "meta": {
+        "accessibility": "25"
+      }
+    },
+    "black" : { 
+      "value": "#000000",
+      "category": "Basic colors",
+      "meta": {
+        "accessibility": "40-50"
+      }
+    },
+    "primary" : { 
+      "value": "#00874e",
+      "category": "Basic colors",
+      "meta": {
+        "accessibility": "30"
+      }
+    },
     
     "blue": {
-      "00"    : { "value": "#e2dff2" },
-      "30"    : { "value": "#3f42db" },
-      "50"    : { "value": "#161c71" }
-    },
-
-    "graphite": {
-      "00-10" : { "value": "#e6e7e8" },
-      "40"    : { "value": "#666666" }, 
-      "50"    : { "value": "#383838" }
-    },
-
-    "green": {
-      "00"    : { "value": "#cce7dc" },
-      "30"    : { "value": "#00874e" },
-      "50"    : { "value": "#064a2d" }
-    },
-
-    "orange": {
-      "00"    : { "value": "#f6ebd8" },
-      "05"    : { "value": "#ee9109" },
-      "45-50" : { "value": "#3f2802" }
+      "light" : { 
+        "value": "#e2dff2",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "00"
+        }
+      },
+      "medium" : { 
+        "value": "#3f42db",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "30"
+        }
+      },
+      "dark" : { 
+        "value": "#161c71",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "50"
+        }
+      }
     },
 
     "red": {
-      "00"    : { "value": "#ffc8c8" },
-      "30"    : { "value": "#ea032a" },
-      "50"    : { "value": "#790318" }
+      "light" : { 
+        "value": "#ffdddd",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "00"
+        }
+      },
+      "medium" : { 
+        "value": "#d20023",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "30"
+        }
+      },
+      "dark" : { 
+        "value": "#790318",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "50"
+        }
+      }
     },
-    
-    "white"   : { "value": "#ffffff" },
+
+    "orange": {
+      "light" : { 
+        "value": "#f6ebd8",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "00"
+        }
+      },
+      "medium" : { 
+        "value": "#ee9109",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "05"
+        }
+      },
+      "dark" : { 
+        "value": "#3f2802",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "45-50"
+        }
+      }
+    },
 
     "yellow": {
-      "00"    : { "value": "#f3f6d8" },
-      "00-10" : { "value": "#f4f412" },
-      "50"    : { "value": "#3f3f02" }
+      "light" : { 
+        "value": "#f3f6d8",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "00"
+        }
+      },
+      "medium" : { 
+        "value": "#f4f412",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "00-10"
+        }
+      },
+      "dark" : { 
+        "value": "#3f3f02",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "50"
+        }
+      }
+    },
+
+    "green": {
+      "light" : { 
+        "value": "#cce7dc",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "00"
+        }
+      },
+      "medium" : { 
+        "value": "#00874e",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "30"
+        }
+      },
+      "dark" : { 
+        "value": "#064a2d",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "50"
+        }
+      }
+    },
+
+    "graphite": {
+      "light" : { 
+        "value": "#e6e7e8",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "00"
+        }
+      },
+      "medium" : { 
+        "value": "#666666",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "40"
+        }
+      }, 
+      "dark" : { 
+        "value": "#383838",
+        "category": "Basic colors",
+        "meta": {
+          "accessibility": "50"
+        }
+      }
+    },
+    
+    "advantage": {
+      "value": "#ffc90d",
+      "category": "Basic colors",
+      "meta": {
+        "accessibility": "00-10"
+      }
+    },
+
+    "accent": {
+      "value": "#652f9d",
+      "category": "Basic colors",
+      "meta": {
+        "accessibility": "30"
+      }
     }
   }
 }

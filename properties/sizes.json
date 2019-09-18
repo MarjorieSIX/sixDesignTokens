@@ -1,0 +1,35 @@
+{
+  "ds-sizes": {
+    "icon": {
+      "sm": {
+        "value": "16{ds-globals.unit}"
+      },
+      "md": {
+        "value": "24{ds-globals.unit}"
+      },
+      "lg": {
+        "value": "32{ds-globals.unit}"
+      },
+      "xl": {
+        "value": "48{ds-globals.unit}"
+      }
+    },
+    "border": {
+      "none": {
+        "value": "none"
+      },
+      "xs": {
+        "value": "4{ds-globals.unit}"
+      },
+      "sm": {
+        "value": "8{ds-globals.unit}"
+      },
+      "md": {
+        "value": "24{ds-globals.unit}"
+      },
+      "lg": {
+        "value": "48{ds-globals.unit}"
+      }
+    }
+  }
+}

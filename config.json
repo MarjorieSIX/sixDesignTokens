@@ -1,13 +1,39 @@
 {
-  "source": ["properties/**/*.json"],
+  "source": ["./properties/*.json"],
   "platforms": {
     "scss": {
       "transformGroup": "scss",
-      "buildPath": "build/scss/",
+      "buildPath": "./build/scss/",
       "files": [{
-        "destination": "_variables.scss",
+        "destination": "token-variables.scss",
         "format": "scss/variables"
       }]
+    },
+    "sketch": {
+      "transformGroup": "web",
+      "buildPath": "./build/sketch/",
+      "files": [
+        {
+          "transforms": "color/sketch",
+          "destination": "TokenVariables.sketchpalette",
+          "format": "sketch/palette/v2",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
+          }
+        }
+      ]
+    },
+    "css": {
+      "transformGroup": "css",
+      "buildPath": "./build/css/",
+      "files": [
+        {
+          "destination": "token-variables.css",
+          "format": "css/variables"
+        }
+      ]
     },
     "android": {
       "transformGroup": "android",

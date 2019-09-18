@@ -1,0 +1,34 @@
+{
+  "ds-breapoints": {
+    "xs": {
+      "value": "320{ds-globals.unit} !default",
+      "meta": {
+        "categoryDescription": ""
+      }
+    },
+    "sm": {
+      "value": "768{ds-globals.unit} !default",
+      "meta": {
+        "categoryDescription": ""
+      }
+    },
+    "md": {
+      "value": "992{ds-globals.unit} !default",
+      "meta": {
+        "categoryDescription": ""
+      }
+    },
+    "lg": {
+      "value": "1200{ds-globals.unit} !default",
+      "meta": {
+        "categoryDescription": ""
+      }
+    },
+    "xl": {
+      "value": "1440{ds-globals.unit} !default",
+      "meta": {
+        "categoryDescription": ""
+      }
+    }
+  }
+}

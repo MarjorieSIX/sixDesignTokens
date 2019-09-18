@@ -2,28 +2,32 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 22 Apr 2019 17:31:16 GMT
+  Generated on Tue, 17 Sep 2019 20:19:31 GMT
 -->
 <resources>
-  <color name="color_black">#ff000000</color>
-  <color name="color_blue_30">#ff3f42db</color>
-  <color name="color_blue_50">#ff161c71</color>
-  <color name="color_blue_00">#ffe2dff2</color>
-  <color name="color_graphite_40">#ff666666</color>
-  <color name="color_graphite_50">#ff383838</color>
-  <color name="color_graphite_00_10">#ffe6e7e8</color>
-  <color name="color_green_30">#ff00874e</color>
-  <color name="color_green_50">#ff064a2d</color>
-  <color name="color_green_00">#ffcce7dc</color>
-  <color name="color_orange_00">#fff6ebd8</color>
-  <color name="color_orange_05">#ffee9109</color>
-  <color name="color_orange_45_50">#ff3f2802</color>
-  <color name="color_red_30">#ffea032a</color>
-  <color name="color_red_50">#ff790318</color>
-  <color name="color_red_00">#ffffc8c8</color>
   <color name="color_white">#ffffffff</color>
-  <color name="color_yellow_50">#ff3f3f02</color>
-  <color name="color_yellow_00">#fff3f6d8</color>
-  <color name="color_yellow_00_10">#fff4f412</color>
+  <color name="color_grey">#ffaaaaaa</color>
+  <color name="color_black">#ff000000</color>
+  <color name="color_primary">#ff00874e</color>
+  <color name="color_blue_light">#ffe2dff2</color>
+  <color name="color_blue_medium">#ff3f42db</color>
+  <color name="color_blue_dark">#ff161c71</color>
+  <color name="color_red_light">#ffffdddd</color>
+  <color name="color_red_medium">#ffd20023</color>
+  <color name="color_red_dark">#ff790318</color>
+  <color name="color_orange_light">#fff6ebd8</color>
+  <color name="color_orange_medium">#ffee9109</color>
+  <color name="color_orange_dark">#ff3f2802</color>
+  <color name="color_yellow_light">#fff3f6d8</color>
+  <color name="color_yellow_medium">#fff4f412</color>
+  <color name="color_yellow_dark">#ff3f3f02</color>
+  <color name="color_green_light">#ffcce7dc</color>
+  <color name="color_green_medium">#ff00874e</color>
+  <color name="color_green_dark">#ff064a2d</color>
+  <color name="color_graphite_light">#ffe6e7e8</color>
+  <color name="color_graphite_medium">#ff666666</color>
+  <color name="color_graphite_dark">#ff383838</color>
+  <color name="color_advantage">#ffffc90d</color>
+  <color name="color_accent">#ff652f9d</color>
   
 </resources>
